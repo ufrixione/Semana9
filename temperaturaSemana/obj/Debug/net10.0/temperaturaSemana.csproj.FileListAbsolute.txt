@@ -1,0 +1,14 @@
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\bin\Debug\net10.0\temperaturaSemana.exe
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\bin\Debug\net10.0\temperaturaSemana.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\bin\Debug\net10.0\temperaturaSemana.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\bin\Debug\net10.0\temperaturaSemana.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\bin\Debug\net10.0\temperaturaSemana.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\refint\temperaturaSemana.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\temperaturaSemana.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\temperaturaSemana\obj\Debug\net10.0\ref\temperaturaSemana.dll
