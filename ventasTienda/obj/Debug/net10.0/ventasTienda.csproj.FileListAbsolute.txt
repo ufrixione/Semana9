@@ -1,0 +1,15 @@
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.exe
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\bin\Debug\net10.0\ventasTienda.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.sourcelink.json
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\refint\ventasTienda.dll
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ventasTienda.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Semana9\ventasTienda\obj\Debug\net10.0\ref\ventasTienda.dll
